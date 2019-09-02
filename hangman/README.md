@@ -1,0 +1,2 @@
+## Hangman
+This is a ascii art hangman game written in python. You will be prompted to enter a difficulty level by number and then you simply have to guess each letter. The game will handle the rest. After winning or losing, type yes to play again, and no to quit.
