@@ -19,3 +19,4 @@
 
 ### Kattis
 - Completed Treasure Hunt (2.6 difficulty) with test cases and screenshot of successful submission
+- Completed Simplicity (2.6 difficulty) with test cases and screenshot of successful submission
