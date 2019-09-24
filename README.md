@@ -21,3 +21,4 @@
 - Completed Treasure Hunt (2.7 difficulty) with test cases and screenshot of successful submission
 - Completed Simplicity (2.6 difficulty) with test cases and screenshot of successful submission
 - Completed Recount (2.2 difficulty) with test cases and screenshot of successful submission
+- Completed Secret Chamber at Mount Rushmore (2.2 difficulty) with test cases and screenshot of successful submission
