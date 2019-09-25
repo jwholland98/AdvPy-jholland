@@ -18,9 +18,11 @@
 - Total: 100 points
 
 ### Kattis
-- Completed Treasure Hunt (2.7 difficulty) with test cases and screenshot of successful submission
-- Completed Simplicity (2.6 difficulty) with test cases and screenshot of successful submission
-- Completed Recount (2.2 difficulty) with test cases and screenshot of successful submission
-- Completed Secret Chamber at Mount Rushmore (2.2 difficulty) with test cases and screenshot of successful submission
-- Completed Simple Addition (1.8 difficulty) with test cases and screenshot of successful submission
-- Completed Quite A Problem (1.8 difficulty) with test cases and screenshot of successful submission
+- Solved kattis problems at certain difficulty levels (90 points)
+    - Completed Treasure Hunt (2.7 difficulty) with test cases and screenshot of successful submission
+    - Completed Simplicity (2.6 difficulty) with test cases and screenshot of successful submission
+    - Completed Recount (2.2 difficulty) with test cases and screenshot of successful submission
+    - Completed Secret Chamber at Mount Rushmore (2.2 difficulty) with test cases and screenshot of successful submission
+    - Completed Simple Addition (1.8 difficulty) with test cases and screenshot of successful submission
+    - Completed Quite A Problem (1.8 difficulty) with test cases and screenshot of successful submission
+- Included automated testing (10 points)
