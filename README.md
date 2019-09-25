@@ -23,3 +23,4 @@
 - Completed Recount (2.2 difficulty) with test cases and screenshot of successful submission
 - Completed Secret Chamber at Mount Rushmore (2.2 difficulty) with test cases and screenshot of successful submission
 - Completed Simple Addition (1.8 difficulty) with test cases and screenshot of successful submission
+- Completed Quite A Problem (1.8 difficulty) with test cases and screenshot of successful submission

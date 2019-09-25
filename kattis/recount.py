@@ -3,15 +3,15 @@
 import sys
 
 def test():
-    inp=('Penny Franklin\nConnie Froggatt\nBarbara Skinner\nConnie Froggatt\nJose Antonio Gomez-Iglesias\nConnie Froggatt\nBruce Stanger\nBarbara Skinner\nBarbara Skinner\n***')
+    inp=('Jesse Holland\nKaleb Neiginfind\nBarbara Skinner\nKaleb Neiginfind\nJose Antonio Gomez-Iglesias\nBruce Stanger\nBarbara Skinner\n***')
     people=solveForTest(inp)
     assert(winner(people)=='Runoff!')
-    inp=('Penny Franklin\nMarti Graham\nConnie Froggatt\nJoseph Ivers\nConnie Froggatt\nPenny Franklin\nConnie Froggatt\nBruce Stanger\nConnie Froggatt\nBarbara Skinner\nBarbara Skinner\n***')
+    inp=('Jesse Holland\nMarti Graham\nKaleb Neiginfind\nJoseph Ivers\nKaleb Neiginfind\nJesse Holland\nKaleb Neiginfind\nBruce Stanger\nKaleb Neiginfind\nBarbara Skinner\nBarbara Skinner\n***')
     people=solveForTest(inp)
-    assert(winner(people)=='Connie Froggatt')
-    inp=('Penny Franklin\nPenny Franklin\nMart Graham')
+    assert(winner(people)=='Kaleb Neiginfind')
+    inp=('Jesse Holland\nJesse Holland\nMart Graham')
     people=solveForTest(inp)
-    assert(winner(people)=='Penny Franklin')
+    assert(winner(people)=='Jesse Holland')
     print('All test cases passed')
 
 def solveForTest(string):

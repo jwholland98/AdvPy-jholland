@@ -24,8 +24,8 @@ def match(a, b):#recurse through dic to see if translation is correct
 def test():
     global dic
     global transl
-    dic.extend([['c','t'],['i','r'],['k','p'],['o','c'],['r','o'],['t','e'],['t','f'],['u','h'],['w','p']])
-    transl.extend([['we','we'],['can','the'],['work','people'],['it','of'],['out','the']])
+    dic.extend([['i','a'],['n','r'],['r','t'],['s','l'],['e','o'],['o','c'],['c','t']])
+    transl.extend([['yay','yay'],['what','yeee'],['apple','no'],['in','at'],['see','let']])
     answer=['yes','no','no','yes','yes']
     assert(solve(True)==answer)
     print('All test cases passed')
