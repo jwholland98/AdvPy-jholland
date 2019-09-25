@@ -26,3 +26,4 @@
     - Completed Simple Addition (1.8 difficulty) with test cases and screenshot of successful submission
     - Completed Quite A Problem (1.8 difficulty) with test cases and screenshot of successful submission
 - Included automated testing (10 points)
+- Total: 100 points
